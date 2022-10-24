@@ -1,0 +1,28 @@
+sceneSetups:
+- path: Assets/Scenes/Rute1.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Scenes/Rute2.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Rute3.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Help.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Game Over.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Pilih Rute.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Main Menu.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Setting.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Winner.unity
+  isLoaded: 0
+  isActive: 0
